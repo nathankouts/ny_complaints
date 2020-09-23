@@ -3,9 +3,7 @@ The people of New Yorker use the 311 system to report complaints about the non-e
 
 In the last few years, the number of 311 complaints coming to the Department of Housing Preservation and Development has increased significantly. Although these complaints are not necessarily urgent, the large volume of complaints and the sudden increase is impacting the overall efficiency of operations of the agency.
 
-Therefore, the Department of Housing Preservation and Development has approached your organization to help them manage the large volume of 311 complaints they are receiving every year.
-
-The agency needs answers to several questions. The answers to those questions must be supported by data and analytics. These are their questions:
+I am going to analyze the data and provide the answers to these questions:
 
 Which type of complaint should the Department of Housing Preservation and Development of New York City focus on first?
 
@@ -15,4 +13,4 @@ Does the Complaint Type that you identified in response to question 1 have an ob
 
 Can a predictive model be built for a future prediction of the possibility of complaints of the type that you have identified in response to question 1?
 
-I am going to analyze the data and provide the answers to these questions.
+
