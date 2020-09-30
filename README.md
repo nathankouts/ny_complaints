@@ -5,12 +5,12 @@ In the last few years, the number of 311 complaints coming to the Department of 
 
 I am going to analyze the data and provide the answers to these questions:
 
-Which type of complaint should the Department of Housing Preservation and Development of New York City focus on first?
+• Which type of complaint should the Department of Housing Preservation and Development of New York City focus on first?
 
-Should the Department of Housing Preservation and Development of New York City focus on any particular set of boroughs, ZIP codes, or street (where the complaints are severe) for the specific type of complaints you identified in response to Question 1?
+• Should the Department of Housing Preservation and Development of New York City focus on any particular set of boroughs, ZIP codes, or street (where the complaints are severe) for the specific type of complaints you identified in response to Question 1?
 
-Does the Complaint Type that you identified in response to question 1 have an obvious relationship with any particular characteristic or characteristics of the houses or buildings?
+• Does the Complaint Type that you identified in response to question 1 have an obvious relationship with any particular characteristic or characteristics of the houses or buildings?
 
-Can a predictive model be built for a future prediction of the possibility of complaints of the type that you have identified in response to question 1?
+• Can a predictive model be built for a future prediction of the possibility of complaints of the type that you have identified in response to question 1?
 
 
